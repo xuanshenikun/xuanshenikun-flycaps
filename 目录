@@ -1,0 +1,3 @@
+git mv 01-胶囊-自适应.png 02-实况卡片-封面按钮.png 03-双通知-B站与音乐.png 04-锁屏面板.png images/
+git commit -m "move images to images dir"
+git push
